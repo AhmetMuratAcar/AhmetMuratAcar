@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi, I am Murat 👋
+
+- 🧪 I am a software developer with a background in biotechnology and chemistry.
+- 💻 Coding primarily in JavaScript and Python.
+- 👀 Currently learning Go in my free time.
+- 📧 I am always open to new connections and oppurtunities, please do not hesitate to contact me.
+
+- P.S. hmu if you play the One Piece TCG, I've been wanting to get into it 💀
 
 <!--
 **AhmetMuratAcar/AhmetMuratAcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
